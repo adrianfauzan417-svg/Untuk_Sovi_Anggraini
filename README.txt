@@ -1,0 +1,1 @@
+Letakkan foto pada folder images dengan nama foto1.jpg dan foto2.jpg (tambahkan foto3/4 bila diinginkan). Letakkan lagu pada folder music dengan nama lagu.mp3 lalu upload seluruh folder ke GitHub Pages.
